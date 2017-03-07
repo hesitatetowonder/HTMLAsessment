@@ -1,0 +1,18 @@
+h1 {
+  color: red;
+}
+.main {
+  font-size: 40px;
+}
+#title{
+  color: #29c2d4;
+}
+#listOne{
+  font-weight: bold;
+}
+#bulletOne{
+  color: yellow;
+}
+ul#listTwo > li{
+  color: yellow;
+}

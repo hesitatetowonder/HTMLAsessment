@@ -1,0 +1,39 @@
+h1, h2, h3, h4, h5, h6 {
+  color:blue;
+  font-size:1.5em;
+}
+#scoreBoard{
+   border: 2px dashed;
+   border-color: green;
+   border-radius:2px;
+
+ }
+#scoreBoard th {
+  background-color: blue;
+  color: yellow;
+  text-align: center;
+}
+#scoreBoard td {
+  text-align: center;
+}
+#teamRoster{
+  list-style-type: square;
+  list-style-image: "bears.jpg";
+  list-style-position: inside;
+}
+ul>li {
+  list-style-type:square;
+}
+a:hover {
+  background-color:red;
+}
+a:link{
+  text-decoration:none;
+}
+blockquote {
+  background-color: black;
+  color:white;
+}
+#checkbox-grid li{
+  list-style-type: none !important;
+}
